@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/kommsys_lab1.iml" filepath="$PROJECT_DIR$/kommsys_lab1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab1a_client/lab1a_client.iml" filepath="$PROJECT_DIR$/lab1a_client/lab1a_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab1a_server/lab1a_server.iml" filepath="$PROJECT_DIR$/lab1a_server/lab1a_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab1b_client/lab1b_client.iml" filepath="$PROJECT_DIR$/lab1b_client/lab1b_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab1b_server/lab1b_server.iml" filepath="$PROJECT_DIR$/lab1b_server/lab1b_server.iml" />
+    </modules>
+  </component>
+</project>
